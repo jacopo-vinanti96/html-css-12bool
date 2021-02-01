@@ -18,9 +18,3 @@
 .row:last-child > [class*="col-"] {
   padding: 10px;
 }
-
-.clearfix::after {
-  display: block;
-  content= '';
-  clear: both;
-}
